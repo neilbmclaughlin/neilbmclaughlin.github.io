@@ -6,4 +6,4 @@ title: Blogging Like a Hacker
 neilbmclaughlin.github.io
 =========================
 
-test
+Now I'm goig to update the text
